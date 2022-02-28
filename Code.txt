@@ -1,1 +1,5 @@
+Open game, Press F12 or Inspect Site. Then Open the "Console" part and write these codes;
+
 Runner.prototype.gameOver = function() {};
+
+Runner.instance_.setSpeed(100000);
